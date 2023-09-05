@@ -1,6 +1,6 @@
-### 💻📌
+### 
 <div align="center">
- <h1 align>Hola 👋</h1> 
+ <h1 align>.💻.⚡</h1> 
 </div>
 
 <img src= "https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png">
